@@ -1,0 +1,7 @@
+{
+    "host": "ktfacility1.cdhfyotxbffy.ap-northeast-2.rds.amazonaws.com",
+    "user": "ktfacility1",
+    "password": "ktfacility123!",
+    "port": "3306",
+    "database": "CUSTOMER"
+}
